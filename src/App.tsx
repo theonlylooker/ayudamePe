@@ -5,6 +5,7 @@ function App() {
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat corrupti
       tempora tenetur deserunt quasi autem illum? Praesentium quae officia neque
       odit adipisci quos illo ex minus esse! Aut, delectus ducimus!
+      <p>nuevo</p>
     </div>
   );
 }
