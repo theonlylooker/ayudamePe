@@ -6,6 +6,7 @@ function App() {
       tempora tenetur deserunt quasi autem illum? Praesentium quae officia neque
       odit adipisci quos illo ex minus esse! Aut, delectus ducimus!
       <p>nuevo</p>
+      <p>nuevo2</p>
     </div>
   );
 }
